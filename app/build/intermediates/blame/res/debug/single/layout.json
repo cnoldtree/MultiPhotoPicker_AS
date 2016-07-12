@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\item_image_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bucket_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\item_bucket_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_titlebar.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\header_titlebar.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_publish.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\act_publish.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_choose.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\act_image_choose.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_bucket_choose.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindow.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\item_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_zoom.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\act_zoom.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\layout\\item_publish.xml"
+    }
+]

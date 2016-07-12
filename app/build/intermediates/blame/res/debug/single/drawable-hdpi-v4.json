@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tag_selected.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\tag_selected.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_del_unfocused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_del_unfocused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_confirm_focused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_confirm_focused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tag_selected2.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\tag_selected2.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_del_focused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_del_focused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_cancel_unfocused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel_unfocused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_img.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\bg_img.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_cancel_focused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel_focused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_confirm_unfocused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_confirm_unfocused.png"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    }
+]

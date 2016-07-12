@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_pic.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\btn_add_pic.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_selected.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\image_selected.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_confirm.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\btn_confirm.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\btn_del.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Demo app\\MultiPhotoPicker_AS\\app\\src\\main\\res\\drawable\\btn_cancel.xml"
+    }
+]
